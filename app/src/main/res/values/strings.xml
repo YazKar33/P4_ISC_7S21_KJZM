@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">P4_ISC_7S21_KJZM</string>
+    <string name="p1titulo">MANEJO DE ACTIVIDADES </string>
+    <string name="p1actbasc">ACTIVIDAD BASICA</string>
+    <string name="p2actparce">ACTIVIDAD PARCEABLE</string>
+    <string name="p1actresp">ACTIVIDAD DE RESULTADOS</string>
+    <string name="p1ingnombre">INGRESA TU NOMBRE</string>
+    <string name="p1ingedad">INGRESA TU EDAD</string>
+    <string name="p1ingcorreo">INGRESA TU CORREO</string>
+    <string name="p2titulo">ACTIVIDAD BASICA</string>
+    <string name="p2mensaje">NOMBRE RECIBIDO</string>
+    <string name="p2btnreg">REGRESAR A LA ACTIVIDAD PRINCIPAL</string>
+    <string name="p3titulo">ELEMENTOS PARCELABLES DATOS</string>
+    <string name="p3informacion">REGRESAR AL HOME</string>
+    <string name="p3datos">DATOS OBTENIDOS</string>
+
+</resources>
